@@ -10,7 +10,7 @@
 訓練步驟都寫在 yolov4-csp.ipynb，在 Colab 上進行訓練
 
 ## 檔案放置路徑如下
+<img width="400" height="550" src="https://github.com/chingi071/ScaledYolov4_FaceMaskDetection/blob/main/README_pix/image1.png"/></div>
 
-
-## YOLO 訓練流程
-詳細流程可以參考我的 Medium: 
+## 訓練流程
+詳細流程可以參考我的 Medium: https://medium.com/@chingi071/scaledyolov4-yolov4-csp-%E8%A8%93%E7%B7%B4%E6%95%99%E5%AD%B8-ee091598e503
