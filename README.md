@@ -1,5 +1,5 @@
-# Face_mask_detection
-本篇的人臉偵測使用 Scaled-YOLOv4 進行訓練，model 為 YOLOv4-csp
+# ScaledYolov4_FaceMaskDetection
+本篇使用 Scaled-YOLOv4 進行訓練，model 為 YOLOv4-csp
 
 訓練集、驗證集使用 Kaggle 口罩資料集: https://www.kaggle.com/andrewmvd/face-mask-detection/metadata
 
